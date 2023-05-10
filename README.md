@@ -4,4 +4,4 @@ Text mining is the use of machine learning to analyze large collections of text 
 
 Natural Language processing algorithims were also created in the files provided. This focused on developing algorithims that enable computers to understand and generate natural language. This technology is used in chat bots, virtual assistants, and language translation apps. Our algorithim created a chatbot that would ask the user how their day was and also provide a response. It had several questions and answers to chose from so it did not constantly repeat itself. 
 
-Both of these techniques have enavled computers to process natural language data more accurately and efficiently
+Both of these techniques have enabled computers to process natural language data more accurately and efficiently
