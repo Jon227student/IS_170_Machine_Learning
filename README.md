@@ -1,5 +1,7 @@
 1.Table of Contents 
 
+IS170 
+
 2. Text Mining and Natural Language Processing 
 
 3. K-Means Clustering 
@@ -17,3 +19,6 @@
 9. Decision Tree
 
 10.Support Vector Machine
+
+IS160
+
