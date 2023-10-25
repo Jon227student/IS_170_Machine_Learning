@@ -37,3 +37,5 @@ IS160 - AI in Business
 17.Prompt Engineering (Stable Diffusion)
 
 18.Img2Img (Stable Diffusion)
+
+19.CV
