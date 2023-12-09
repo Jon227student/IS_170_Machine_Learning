@@ -38,4 +38,10 @@ IS160 - AI in Business
 
 18.Img2Img (Stable Diffusion)
 
-19.CV
+19.Reinforcement Learning Diagram
+
+20.Amazon Deep Racer Project
+
+21.Responsible AI Discussion
+
+22.CV
